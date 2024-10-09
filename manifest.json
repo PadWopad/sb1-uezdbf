@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-link-extractor",
+  "name": "Link Extractor",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Extracts content from external links in the current file and saves it as separate markdown files.",
+  "author": "Your Name",
+  "isDesktopOnly": false
+}
